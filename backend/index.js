@@ -7,7 +7,7 @@ const app = express();
 app.use(express.json());
 // app.use(cors());
 app.use(cors({
-    origin: 'http://localhost:5173', // your Netlify frontend URL
+    origin: 'https://willowy-creponne-5706d3.netlify.app', // your Netlify frontend URL
   credentials: true, 
 
 }));

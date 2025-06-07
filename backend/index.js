@@ -8,7 +8,7 @@ app.use(express.json());
 // app.use(cors());
 app.use(cors({
 
-   origin: 'http://localhost:5173', // your Netlify frontend URL
+   origin: 'https://68441cf6a590ccd3d05d1c4b--calm-kulfi-83bd8a.netlify.app', // your Netlify frontend URL
   credentials: true, 
 
 }));

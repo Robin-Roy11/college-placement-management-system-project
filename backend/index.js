@@ -8,7 +8,7 @@ app.use(express.json());
 // app.use(cors());
 app.use(cors({
 
-   origin: 'https://68441cf6a590ccd3d05d1c4b--calm-kulfi-83bd8a.netlify.app', // your Netlify frontend URL
+   origin: 'https://68441e6a4a66e7d6ebb0ea06--spiffy-zuccutto-1baed3.netlify.app', // your Netlify frontend URL
   credentials: true, 
 
 }));
